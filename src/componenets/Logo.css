@@ -1,0 +1,58 @@
+.logo-page {
+  position: absolute;
+  width: 1245px;
+  height: 247px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 156.4%;
+  /* or 56px */
+
+  text-align: center;
+
+  margin-top: 50px;
+}
+
+.logo-heading .description {
+  color: #000000;
+}
+
+.bottom-bar {
+  position: absolute;
+  width: 1483px;
+  height: 100px;
+  /* position: fixed; */
+  margin-top: 300px;
+  background: #faeacc;
+  border-radius: 0px;
+}
+
+.button-container {
+  align-items: center;
+  padding-top: 10px;
+}
+
+.button-container > button {
+  width: 140px;
+  height: 40px;
+  color: #ffffff;
+  cursor: pointer;
+  border: none;
+}
+
+.button {
+  margin-left: 40px;
+}
+
+.design {
+  border-radius: 40px;
+  background-color: #add7cc;
+  margin-right: 33px;
+}
+
+.quote {
+  border-radius: 40px;
+  background: rgba(249, 182, 104, 0.81);
+}
